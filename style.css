@@ -1,0 +1,14 @@
+.navTop {
+    background-color: #28221E;
+    height: 70px;
+}
+
+#navBar-text {
+    color: #CECBC8;
+    font-family: 'Cinzel Decorative', cursive;
+    padding-left: 10px;
+}
+
+.btnTop {
+    background-color: #28221E;
+}
