@@ -1,0 +1,77 @@
+* {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+#navbarDropdownTitle h5 {
+    color: white;
+}
+
+.navbarDropdown {
+    background-color: #7F6951;
+}
+
+.navbarDropdown li {
+    font-size: 20px;
+}
+
+.navbarDropdown li a {
+    color: white;
+}
+
+.navTop {
+    background-color: #28221E;
+    height: 70px;
+}
+
+#navBar-text {
+    color: #CECBC8;
+    font-family: 'Cinzel Decorative', cursive;
+    padding-left: 10px;
+}
+
+.btnTop {
+    background-color: #28221E;
+}
+
+#main-page {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/assets/images/background3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+#main-page-text-div {
+    position: absolute;
+    width: 25%;
+    top: 30%;
+    left: 10%;
+}
+
+.main-page-text {
+    color: #28221E;
+}
+
+@media (max-width: 678px) {
+    .main-page-text {
+        color: #FFD700;
+    }
+}
+
+#sub-page {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/assets/images/background2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
