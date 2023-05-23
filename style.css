@@ -1,3 +1,7 @@
+* {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
 .navTop {
     background-color: #28221E;
     height: 70px;
@@ -11,4 +15,20 @@
 
 .btnTop {
     background-color: #28221E;
+}
+
+#main-page {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('assets/background3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+#main-page-text-div {
+    position: absolute;
+    top: 30%;
+    left: 10%;
 }
