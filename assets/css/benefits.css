@@ -1,0 +1,69 @@
+* {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#facilities-page {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/assets/images/benefits1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.facilities-page-text {
+    color: white;
+    text-shadow: 2px 2px 5px #000000;
+}
+
+#facilities-text-div {
+    position: absolute;
+    width: 25%;
+    top: 75%;
+    left: 20%;
+}
+
+#access-page {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/assets/images/benefits2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.access-page-text {
+    color: white;
+    text-shadow: 2px 2px 5px #000000;
+}
+
+#access-text-div {
+    position: absolute;
+    width: 23%;
+    top: 35%;
+    left: 60%;
+}
+
+#spa-page {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/assets/images/benefits3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.spa-page-text {
+    color: white;
+    text-shadow: 2px 2px 5px #000000;
+}
+
+#spa-text-div {
+    position: absolute;
+    width: 28%;
+    top: 25%;
+    left: 65%;
+}
