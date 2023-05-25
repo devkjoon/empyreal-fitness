@@ -1,65 +1,65 @@
-#facilities-page {
+#instructor-page {
     width: 100vw;
     height: 100vh;
-    background-image: url('/assets/images/benefits1.png');
+    background-image: url('/assets/images/groupfit1.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
 }
 
-.facilities-page-text {
+.instructor-page-text {
     color: white;
     text-shadow: 2px 2px 5px #000000;
 }
 
-#facilities-text-div {
+#instructor-text-div {
+    position: absolute;
+    width: 40%;
+    top: 20%;
+    left: 50%;
+}
+
+#class-page {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/assets/images/groupfit2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.class-page-text {
+    color: white;
+    text-shadow: 2px 2px 5px #000000;
+}
+
+#class-text-div {
     position: absolute;
     width: 25%;
-    top: 75%;
-    left: 20%;
+    top: 65%;
+    left: 5%;
 }
 
-#access-page {
+#community-page {
     width: 100vw;
     height: 100vh;
-    background-image: url('/assets/images/benefits2.png');
+    background-image: url('/assets/images/groupfit3.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
 }
 
-.access-page-text {
+.community-page-text {
     color: white;
-    text-shadow: 2px 2px 5px #000000;
+    text-shadow: 2px 2px 7px #000000;
 }
 
-#access-text-div {
+#community-text-div {
     position: absolute;
-    width: 23%;
-    top: 35%;
-    left: 60%;
-}
-
-#spa-page {
-    width: 100vw;
-    height: 100vh;
-    background-image: url('/assets/images/benefits3.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    position: relative;
-}
-
-.spa-page-text {
-    color: white;
-    text-shadow: 2px 2px 5px #000000;
-}
-
-#spa-text-div {
-    position: absolute;
-    width: 28%;
-    top: 25%;
-    left: 65%;
+    width: 25%;
+    top: 65%;
+    left: 10%;
 }
