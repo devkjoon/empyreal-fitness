@@ -1,65 +1,65 @@
-#instructor-page {
+#trainer-page {
     width: 100vw;
     height: 100vh;
-    background-image: url('/assets/images/groupfit1.png');
+    background-image: url('/assets/images/virtual3.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
 }
 
-.instructor-page-text {
+.trainer-page-text {
     color: white;
-    text-shadow: 2px 2px 5px #000000;
+    text-shadow: 2px 2px 7px #000000;
 }
 
-#instructor-text-div {
+#trainer-text-div {
     position: absolute;
-    width: 40%;
-    top: 20%;
-    left: 50%;
+    width: 25%;
+    top: 65%;
+    left: 10%;
 }
 
-#class-page {
+#flexibility-page {
     width: 100vw;
     height: 100vh;
-    background-image: url('/assets/images/groupfit2.png');
+    background-image: url('/assets/images/virtual2.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
 }
 
-.class-page-text {
+.flexibility-page-text {
     color: white;
     text-shadow: 2px 2px 5px #000000;
 }
 
-#class-text-div {
+#flexibility-text-div {
     position: absolute;
     width: 25%;
     top: 65%;
     left: 5%;
 }
 
-#community-page {
+#experience-page {
     width: 100vw;
     height: 100vh;
-    background-image: url('/assets/images/groupfit3.png');
+    background-image: url('/assets/images/virtual1.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
 }
 
-.community-page-text {
+.experience-page-text {
     color: white;
-    text-shadow: 2px 2px 7px #000000;
+    text-shadow: 2px 2px 5px #000000;
 }
 
-#community-text-div {
+#experience-text-div {
     position: absolute;
     width: 25%;
-    top: 65%;
-    left: 10%;
+    top: 60%;
+    left: 40%;
 }
