@@ -1,0 +1,65 @@
+#instructor-page {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/assets/images/groupfit1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.instructor-page-text {
+    color: white;
+    text-shadow: 2px 2px 5px #000000;
+}
+
+#instructor-text-div {
+    position: absolute;
+    width: 40%;
+    top: 20%;
+    left: 50%;
+}
+
+#class-page {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/assets/images/groupfit2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.class-page-text {
+    color: white;
+    text-shadow: 2px 2px 5px #000000;
+}
+
+#class-text-div {
+    position: absolute;
+    width: 25%;
+    top: 65%;
+    left: 5%;
+}
+
+#community-page {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/assets/images/groupfit3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.community-page-text {
+    color: white;
+    text-shadow: 2px 2px 7px #000000;
+}
+
+#community-text-div {
+    position: absolute;
+    width: 25%;
+    top: 65%;
+    left: 10%;
+}
